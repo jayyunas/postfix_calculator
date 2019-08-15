@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - postfixCalculator",
+            "request": "launch",
+            "mainClass": "postfixCalculator"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test",
+            "request": "launch",
+            "mainClass": "Test"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - postfixEvaluator",
+            "request": "launch",
+            "mainClass": "postfixEvaluator"
+        }
+    ]
+}
